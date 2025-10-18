@@ -1,0 +1,1 @@
+import{__FramerMetadata__$1 as e,bit_jPcy8_default as t,init_bit_jPcy8 as n}from"./shared-lib.CN5sgzBl.mjs";n();export{e as __FramerMetadata__,t as default};
