@@ -519,7 +519,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                           children: /*#__PURE__*/ _jsx(LinkWrap, {
                             height: "100%",
                             id: "HSSTA9zI1",
-                            jcuP8BOF2: "https://x.com/Giggle_DogSocks",
+                            jcuP8BOF2: "https://x.com/AcademyDogSocks",
                             k7NjW2jq9: "Twitter",
                             layoutId: "HSSTA9zI1",
                             variant: "ScnR6mzJS",
@@ -564,7 +564,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                             height: "100%",
                             id: "o68uw9EfO",
                             jcuP8BOF2:
-                              "https://t.me/Giggle_DogSocks",
+                              "https://t.me/AcademyDogSocks",
                             k7NjW2jq9: "Community",
                             layoutId: "o68uw9EfO",
                             variant: "ScnR6mzJS",
@@ -609,7 +609,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                             height: "100%",
                             id: "OsIbjb5kr",
                             jcuP8BOF2:
-                              "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                              "https://www.dextools.io/app/en/bnb/pair-explorer/0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                             k7NjW2jq9: "Dextools",
                             layoutId: "OsIbjb5kr",
                             variant: "ScnR6mzJS",
@@ -667,7 +667,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                           LkLxoE1IH: true,
                           MaURTmcAp: true,
                           uRnZpSnxs:
-                            "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                            "https://pancakeswap.finance/swap?outputCurrency=0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                           variant: "mS8fuDLXY",
                           width: "100%",
                         }),

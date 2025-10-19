@@ -838,7 +838,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                   LkLxoE1IH: true,
                                   MaURTmcAp: true,
                                   uRnZpSnxs:
-                                    "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                                    "https://pancakeswap.finance/swap?outputCurrency=0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                                   variant: "mS8fuDLXY",
                                   width: "100%",
                                 }),
@@ -1866,7 +1866,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                 "--framer-text-color": "rgb(38, 38, 38)",
                               },
                               children:
-                                "0xcomingsoon",
+                                "0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                             }),
                           }),
                         },
@@ -1887,7 +1887,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               "--framer-text-color": "rgb(38, 38, 38)",
                             },
                             children:
-                              "0xcomingsoon",
+                              "0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                           }),
                         }),
                         className: "framer-k8r2ue",
@@ -1931,7 +1931,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                             layoutId: "prpbGQ16v",
                             PbW7K4Unr: "rgb(42, 163, 67)",
                             qIDNNRI0q:
-                              "0xcomingsoon",
+                              "0x4ccabf53871b8095efee1143b27c0cb0afea29df",
                             rIGEnoYqD: "Copied",
                             variant: "eXhIlGFtn",
                             width: "100%",
