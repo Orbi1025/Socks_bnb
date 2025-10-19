@@ -519,7 +519,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                           children: /*#__PURE__*/ _jsx(LinkWrap, {
                             height: "100%",
                             id: "HSSTA9zI1",
-                            jcuP8BOF2: "https://x.com/SocksgiggleOG",
+                            jcuP8BOF2: "https://x.com/Giggle_DogSocks",
                             k7NjW2jq9: "Twitter",
                             layoutId: "HSSTA9zI1",
                             variant: "ScnR6mzJS",
@@ -564,8 +564,8 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                             height: "100%",
                             id: "o68uw9EfO",
                             jcuP8BOF2:
-                              "https://www.instagram.com/p/DOdeOE8kqfH/",
-                            k7NjW2jq9: "Instagram",
+                              "https://t.me/Giggle_DogSocks",
+                            k7NjW2jq9: "Community",
                             layoutId: "o68uw9EfO",
                             variant: "ScnR6mzJS",
                             width: "100%",
